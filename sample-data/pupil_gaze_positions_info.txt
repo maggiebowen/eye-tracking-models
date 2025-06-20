@@ -1,0 +1,9 @@
+
+    gaze_positions.csv
+    keys:
+        timestamp [ns] - timestamp of the source image frame
+        gaze x [px] - x position in the world image frame in pixel coordinates
+        gaze y [px] - y position in the world image frame in pixel coordinates
+        azimuth [deg] - azimuth of the gaze ray in relation to the scene camera in degrees
+        elevation [deg] - elevation of the gaze ray in relation to the scene camera in degrees
+    
